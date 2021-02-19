@@ -2,18 +2,18 @@
 
 <channels> 
 <channel> 
-<name>[B]Telewizja 1[/B]</name> 
+<name>[B]Telewizja - Swift[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
-<externallink>	</externallink> 
+<externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/TV_Swift.m3u</externallink> 
 <fanart>https://www.clipartkey.com/mpngs/m/155-1556005_television-png-transparent-images-transparent-background-tv-icon.png</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
-<name>[B]Telewizja 2[/B]</name> 
+<name>[B]Telewizja 1[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
-<externallink>	</externallink> 
+<externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/TV_1.m3u</externallink> 
 <fanart>https://www.clipartkey.com/mpngs/m/155-1556005_television-png-transparent-images-transparent-background-tv-icon.png</fanart> 
 <info></info> 
 </channel>

@@ -36,7 +36,8 @@
 <info></info> 
 </channel>
 
-
+<channels> 
+<channel> 
 <name>[B]polskatv 1[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_tv2.m3u</externallink> 
@@ -44,6 +45,8 @@
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
 <name>[B]polskatv 2[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_tv3.m3u</externallink> 
@@ -51,7 +54,8 @@
 <info></info> 
 </channel>
 
-
+<channels> 
+<channel> 
 <name>[B]polskatv 3[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_tv4.m3u</externallink> 
@@ -59,9 +63,11 @@
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
 <name>[B]polskatv 4[/B]</name> 
 <thumbnail>https://www.nicepng.com/png/detail/127-1274516_flat-panel-tv-comments-tv-icon-black-png.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_tv5.m3u</externallink> 
 <fanart>https://www.clipartkey.com/mpngs/m/155-1556005_television-png-transparent-images-transparent-background-tv-icon.png</fanart> 
 <info></info> 
-</channel>
+</channel> 
